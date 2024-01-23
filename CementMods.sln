@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pillars Cement", "Pillars Cement\Pillars Cement.csproj", "{57E225EB-47C9-4AAE-B091-5422343BBF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E225EB-47C9-4AAE-B091-5422343BBF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E225EB-47C9-4AAE-B091-5422343BBF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E225EB-47C9-4AAE-B091-5422343BBF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E225EB-47C9-4AAE-B091-5422343BBF32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0A07ED-2397-43A4-B289-D9F1DD5B82EC}
+	EndGlobalSection
+EndGlobal
